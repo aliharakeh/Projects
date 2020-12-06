@@ -1,14 +1,25 @@
-# Doctors Evaluations
+- [Doctors Evaluations](#doctors-evaluations)
+      - [Sections:](#sections)
+      - [Tools Used](#tools-used)
+- [Dashbard](#dashbard)
+  - [Home Page](#home-page)
+  - [Content Pages](#content-pages)
+  - [Add / Edit / Delete](#add--edit--delete)
+  - [Evaluations](#evaluations)
+  - [Archives](#archives)
+- [Employee Form](#employee-form)
+- [Evalution Questionare](#evalution-questionare)
 
-# Introduction
+
+# Doctors Evaluations
 The goal of this project was to provide the University with statistical data about how students evaluated their doctors and whether the doctors were doing their job correctly or not. This evaluation was done by students who answered some questions about their doctors' ways of handling them and providing teaching/learning materials.
 
-#### This project consists of two sections:
+#### Sections:
 - **Employee Form:** The employee enters the site URL and logs in as an employee with his account to open a `form` where he can configure the evaluation settings (like what class and doctor to evaluate) and then start the evaluation process where an `evaluation URL` is generated so that students can use it to open the questionare site and start their evaluation.
 
 - **Admin Dashboard:** The admin logs in as an admin to open the administration dashboard where he can access and edit all data about available University Faculty `Departments, Courses, Doctors, Evaluations, Users, Archives, Logs, and Evaluations`. He then can access the statistics of the evaluations and `generate a pdf` of each evaluation to show it to the appropriate University personnel. An evaluation report can be generated for a Department, a Course, or a Doctor.
 
-#### Tools Used:
+#### Tools Used
   - **Backend:** Laravel PHP Framework
   - **Frontend:** HTML & Laravel's Blade Templates
   - **Styling:** Bootstrap CSS Framework
