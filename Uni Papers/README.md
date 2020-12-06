@@ -11,7 +11,7 @@ The goal of this project was to provide the University with an app that helps th
 
 # Tools
 - **App Scafolding:** Electron for cross-platform apps using web technologies.
-- **Web Technologies**: Node.js & Vue.js for app content & logic.
+- **Web Technologies**: HTML, CSS, JS, Node.js, & Vue.js for app content & logic.
 - **Database:** Sqlite for a local database.
 - **Styling:** Vuetify library for Vue material components.
 
