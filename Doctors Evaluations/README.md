@@ -1,6 +1,7 @@
+# Table of Content
 - [Doctors Evaluations](#doctors-evaluations)
-      - [Sections:](#sections)
-      - [Tools Used](#tools-used)
+  - [Sections:](#sections)
+  - [Tools Used](#tools-used)
 - [Dashbard](#dashbard)
   - [Home Page](#home-page)
   - [Content Pages](#content-pages)
