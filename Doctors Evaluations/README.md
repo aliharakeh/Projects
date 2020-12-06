@@ -22,7 +22,7 @@ The goal of this project was to provide the University with statistical data abo
 
 #### Tools Used
   - **Backend:** Laravel PHP Framework.
-  - **Frontend:** HTML/CSS/JS & Laravel's Blade Templates.
+  - **Frontend:** HTML, CSS, JS, & Laravel's Blade Templates.
   - **Database:** MySQL database.
   - **Styling:** Bootstrap CSS Framework.
 
