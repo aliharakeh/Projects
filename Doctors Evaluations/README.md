@@ -21,9 +21,10 @@ The goal of this project was to provide the University with statistical data abo
 - **Admin Dashboard:** The admin logs in as an admin to open the administration dashboard where he can access and edit all data about available University Faculty `Departments, Courses, Doctors, Evaluations, Users, Archives, Logs, and Evaluations`. He then can access the statistics of the evaluations and `generate a pdf` of each evaluation to show it to the appropriate University personnel. An evaluation report can be generated for a Department, a Course, or a Doctor.
 
 #### Tools Used
-  - **Backend:** Laravel PHP Framework
-  - **Frontend:** HTML & Laravel's Blade Templates
-  - **Styling:** Bootstrap CSS Framework
+  - **Backend:** Laravel PHP Framework.
+  - **Frontend:** HTML/CSS/JS & Laravel's Blade Templates.
+  - **Database:** MySQL database.
+  - **Styling:** Bootstrap CSS Framework.
 
 
 # Dashbard
