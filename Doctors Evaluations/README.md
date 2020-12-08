@@ -26,10 +26,8 @@ The goal of this project was to provide the University with statistical data abo
   - **Database:** MySQL database.
   - **Styling:** Bootstrap CSS Framework.
   
-```
-**Note**
-Some screenshots are captured in scroll mode, by auto scrolling, so the left side menu might be repeated as it is included in every scroll capture.
-```
+### Note
+> Some screenshots are captured in scroll mode, by auto scrolling, so the left side menu might be repeated as it is included in every scroll capture.
 
 # Dashbard
 Here are some screenshots of some of the dashboard features
