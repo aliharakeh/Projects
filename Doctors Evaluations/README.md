@@ -25,7 +25,9 @@ The goal of this project was to provide the University with statistical data abo
   - **Frontend:** HTML, CSS, JS, & Laravel's Blade Templates.
   - **Database:** MySQL database.
   - **Styling:** Bootstrap CSS Framework.
-
+  
+### Note
+Some screenshots are captured in scroll mode, by auto scrolling, so the left side menu might be repeated as it is included in every scroll capture.
 
 # Dashbard
 Here are some screenshots of some of the dashboard features
@@ -75,8 +77,6 @@ Some of the features of some section.
 
 ## Evaluations
 Evaluation reports are generated for each Department, Course, & Dcotor. The report is generated with respect to the chosen university year (ex: 2017-2018, 2018-2019, ...). These reports can also be exported and downloaded as pdf.
-
-**Note**: some screenshots are captured in scroll mode, by auto scrolling, so the left side menu might be repeated as it is included in every scroll capture.
 
 - Evaluated Departments (also avaiable for Doctors & Courses)
   ![Evaluated Departments (same for soctors & Courses)](Screenshots/show%20evaluated%20department%20doctors.png)
